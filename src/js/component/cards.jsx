@@ -2,7 +2,7 @@ import React from "react";
 
 const Card = () => {
 	return (
-		<div className="col-2">
+		<div className="col-md-2">
 			<div className="card">
 				<img
 					src="https://edgewoodreit.com/wp-content/uploads/2018/01/500x325.png"
